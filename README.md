@@ -1,2 +1,2 @@
 # CNN---Basics
-Basic classifier built in CNN using Keras API
+Basic Cat And Dog classifier built in CNN using Keras API
